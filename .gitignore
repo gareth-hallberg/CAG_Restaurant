@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-wheel-metadata/
+.eggs/
+
+# Environment
+.env
+.env.*
+
+# Database
+*.sqlite3
+chroma_db/
+
+# macOS
+.DS_Store
